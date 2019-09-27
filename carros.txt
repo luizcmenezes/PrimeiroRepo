@@ -7,3 +7,5 @@ Onix
 Fusca
 Omega
 Siena
+Fox
+HB20
