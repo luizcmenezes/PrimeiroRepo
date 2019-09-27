@@ -6,3 +6,5 @@ Ferrai
 Onix
 Fusca
 Omega
+Fox
+HB20
