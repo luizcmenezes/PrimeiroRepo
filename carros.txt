@@ -9,4 +9,3 @@ Omega
 Siena
 Fox
 HB20
-D20
