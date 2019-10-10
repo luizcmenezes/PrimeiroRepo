@@ -2,12 +2,10 @@ Fiat Uno
 Gol
 Celta
 Corsa
-Ferrai
 Onix
 Fusca
 Omega
-Siena
 Fox
 HB20
-
 opala
+Siena
