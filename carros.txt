@@ -2,7 +2,6 @@ Fiat Uno
 Gol
 Celta
 Corsa
-Ferrai
 Onix
 Fusca
 Omega
